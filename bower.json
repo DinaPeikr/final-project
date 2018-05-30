@@ -1,12 +1,12 @@
 {
-  "name": "kosmostur",
+  "name": "final-project",
   "description": "",
   "main": "",
   "authors": [
     "Dina Peikr <divo1peikr@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/DinaPeikr/kosmostur.loc",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
